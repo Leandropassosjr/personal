@@ -16,11 +16,9 @@ M.Sc. in Computer Science from São Paulo State University (UNESP) (Brazil, 2015
 
 # I like
 
-- Running
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
+- Guitars
+- Workout
+- Traveling
 
 # Travel / Geography
 
