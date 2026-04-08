@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpersonal=globalThis.webpackChunkpersonal||[]).push([[27],{27(a,e,s){a.exports=s.p+"static/media/about.e4870d101839e100566c.md"}}]);
