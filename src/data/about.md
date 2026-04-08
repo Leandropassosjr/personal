@@ -14,6 +14,20 @@ M.Sc. in Computer Science from São Paulo State University (UNESP) (Brazil, 2015
 
 - Gamer and traveler.
 
+# Useful Links
+
+- [Linkedin](https://www.linkedin.com/in/leandropassosjr/)
+- [Lattes](http://lattes.cnpq.br/3785255738671502)
+- [Scholar](https://scholar.google.com/citations?hl=pt-BR&user=VVCXeH0AAAAJ&view_op=list_works)
+- [Instagram](https://www.instagram.com/leandropassosjr/)
+
+
+# I like
+
+- Guitars
+- Workout
+- Traveling
+
 # I like
 
 - Guitars
