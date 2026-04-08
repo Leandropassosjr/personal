@@ -28,12 +28,6 @@ M.Sc. in Computer Science from São Paulo State University (UNESP) (Brazil, 2015
 - Workout
 - Traveling
 
-# I like
-
-- Guitars
-- Workout
-- Traveling
-
 # Travel / Geography
 
 - I am originally from Jaú, SP, Brazil. I have since lived in Bauru (Brazil), Seven Springs (USA), and Wolverhampton (UK).
