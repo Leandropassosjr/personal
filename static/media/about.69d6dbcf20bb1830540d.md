@@ -1,12 +1,12 @@
 # Intro
 
-M.Sc. in Computer Science from São Paulo State University (UNESP) (Brazil, 2015) and Ph.D. in Computer Science from Federal University of São Carlos (UFSCar) (Brazil, 2018).  Worked as a post-doctorate researcher at UNESP from 2019 to 2021, and as a post-doctorate at the University of Wolverhampton (England, UK) from 2021 to 2022. Has experience in Machine Learning and deep learning, acting on subjects related to clustering, classification, anomaly detection, image reconstruction, and optimization, among others. Most of his works employ graph- and energy-based approaches, as well as nature-inspired meta-heuristic algorithms, more biologically plausible algorithms, and quantum machine learning.
+Professor of Computer Science at the São Paulo State University (UNESP).  Worked as a researcher at the University of Wolverhampton (England, UK) from 2021 to 2022. Has experience in Machine Learning, acting on subjects related to clustering, classification, anomaly detection, image reconstruction, and optimization, among others. Most of his works employ graph- and energy-based approaches, as well as nature-inspired meta-heuristic algorithms, biologically plausible algorithms, and quantum machine learning.
 
 # About my life
 
 - Married to Amanda, son of Silvia and Leandro, brother of Debora, Raquel, Gisele, Lipe, and Diego, and uncle of Nana, Isa, and Elis.
 
-- Researcher in computer science, guided by Professor [João Paulo Papa](https://papajpblog.wordpress.com/).
+- Professor of Computer Science at the [São Paulo State University (UNESP)](https://www2.unesp.br/).
 
 - A member of the [Recogna Lab](https://www.recogna.tech/).
 
