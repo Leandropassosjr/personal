@@ -18,8 +18,10 @@ Professor of Computer Science at the São Paulo State University (UNESP).  Worke
 
 - [Linkedin](https://www.linkedin.com/in/leandropassosjr/)
 - [Lattes](http://lattes.cnpq.br/3785255738671502)
+- [Orcid](https://orcid.org/my-orcid?orcid=0000-0003-3529-3109)
 - [Scholar](https://scholar.google.com/citations?hl=pt-BR&user=VVCXeH0AAAAJ&view_op=list_works)
 - [Instagram](https://www.instagram.com/leandropassosjr/)
+
 
 
 # I like
